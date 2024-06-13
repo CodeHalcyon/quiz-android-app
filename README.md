@@ -17,9 +17,9 @@ Starting was a challenge, but once I understood the file structure, everything c
 [Watch the project in action!](#)  <!-- Insert link to your demo video here -->
 
 ## Screenshots
-![Screenshot1](screenshots/1.jpg)
-![Screenshot2](screenshots/2.jpg)
-![Screenshot2](screenshots/3.jpg)
+![Screenshot1](screenchots/1.jpg)
+![Screenshot2](screenchots/2.jpg)
+![Screenshot2](screenchots/3.jpg)
 
 ## Installation
 1. Clone the repository:
